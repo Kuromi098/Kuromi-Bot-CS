@@ -1,0 +1,24 @@
+{
+  "name": "kuromi-bot-cs",
+  "version": "1.0.0",
+  "description": "bot para whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuromi098/Kuromi-Bot-CS.git"
+  },
+  "keywords": [
+    "chat",
+    "bot"
+  ],
+  "author": "Kuromi098",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuromi098/Kuromi-Bot-CS/issues"
+  },
+  "homepage": "https://github.com/Kuromi098/Kuromi-Bot-CS#readme"
+}
